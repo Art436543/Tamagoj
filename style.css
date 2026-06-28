@@ -171,6 +171,16 @@ button{
     margin-top: 2vw;
     width: 5vw;
 }
+.button{
+    background-color: rgb(235, 119, 119);
+    color: #000000;
+    width: 10vw;
+    height: 5vh;
+    font-size: 2vh;
+    border-radius: 20px;
+    border: 0;
+    transition: 1s;
+}
 .hidden{
     color: #ffa600;
     display: none;
